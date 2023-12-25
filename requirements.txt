@@ -1,0 +1,3 @@
+numpy==1.*
+torch==2.*
+rlgym[rl-sim]==2.*
